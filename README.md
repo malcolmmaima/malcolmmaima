@@ -2,7 +2,7 @@
 
 ## I'm a Front-end Engineer, Technology Enthusiast, Movie Buff, Avgeek and Great Cook!!
 
-- 🌱 I’m currently Front-end stuff. 🤣
+- 🌱 I’m currently doing Front-end stuff. 🤣
 - 👯 I’m looking to expand my stack coverage.
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love dogs, hiking and cooking.
