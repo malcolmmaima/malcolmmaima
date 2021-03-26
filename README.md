@@ -1,6 +1,6 @@
 ### Hi there, I'm Malcolm Maima👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=malcolmmaima&color=yellow)</div>
 
-## I'm a Front-end Engineer, Technology Enthusiast, Movie Buff, Avgeek and Great Cook!!
+## I'm a Software Engineer, Technology Enthusiast, Movie Buff, Avgeek and Great Cook!!
 
 - 🌱 I’m currently doing Front-end stuff. 🤣
 - 👯 I’m looking to expand my stack coverage.
