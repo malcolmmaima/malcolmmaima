@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer, Technology Enthusiast, Movie Buff, Avgeek and Great Cook!!
 
-- 🌱 I’m currently doing Front-end stuff with React @getkwara. 
+- 🌱 I’m currently doing Front-end stuff with React <a href="https://github.com/getkwara">@getkwara</a>. 
 - 👯 I’m looking to expand my stack coverage.
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love dogs, hiking and cooking.
