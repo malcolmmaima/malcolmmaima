@@ -6,6 +6,7 @@
 - 👯 I’m looking to expand my stack coverage.
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love dogs, hiking and cooking.
+- 😎 Some interesting things about me <a href="https://linktr.ee/malcolmmaima">Click here</a>. 
 
 ### Connect with me 
 
