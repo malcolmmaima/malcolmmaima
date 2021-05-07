@@ -5,7 +5,7 @@
 - 🌱 I’m currently doing Front-end stuff with React <a href="https://github.com/getkwara">@getkwara</a>. 
 - 👯 I’m looking to expand my stack coverage.
 - 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ I love dogs, hiking and cooking.
+- ⚡ I love dogs, hiking and crypto.
 - 😎 Some interesting things about me <a href="https://linktr.ee/malcolmmaima">Click here</a>. 
 
 ### Connect with me 
