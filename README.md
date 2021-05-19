@@ -30,7 +30,7 @@
 <br />
 <br />
 
-<!-- ### :zap: GitHub Stats
+### :zap: GitHub Stats
 
 <center>
   <table>
@@ -39,7 +39,7 @@
         <td><img width="445px" align="left" src="https://github-readme-stats-swart-one.vercel.app/api?username=malcolmmaima&hide=html&layout=compact&theme=buefy" /></td>
     </tr>   
   </table>
-</center> -->
+</center>
 
 
 [twitter]: https://twitter.com/malcolmmaima
