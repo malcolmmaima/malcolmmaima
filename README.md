@@ -36,8 +36,7 @@
   <table>
     <tr>
         <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmmaima&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="445px" align="left" src="https://github-readme-stats.vercel.app/api?username=malcolmmaima&hide=contribs,prs
-" /></td>
+        <td><img width="445px" align="left" src="https://github-readme-stats.vercel.app/api?username=malcolmmaima&hide=contribs,prs" /></td>
     </tr>   
   </table>
 </center>
