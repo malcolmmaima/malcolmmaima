@@ -43,14 +43,14 @@
 </center>
 -->
 
-<center>
+<!-- <center>
   <table>
     <tr>
         <td><img width="350px" align="left" src="https://github-readme-stats-a6ue0re62-malcolmmaima.vercel.app/api/top-langs/?username=malcolmmaima&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="445px" align="left" src="https://github-readme-stats-swart-one.vercel.app/api?username=malcolmmaima&hide=html&layout=compact&theme=buefy" /></td>
     </tr>   
   </table>
-</center>
+</center> -->
 
 [twitter]: https://twitter.com/malcolmmaima
 [linkedin]: https://www.linkedin.com/in/malcolmmaima/
