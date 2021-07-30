@@ -55,6 +55,5 @@
 [twitter]: https://twitter.com/malcolmmaima
 [linkedin]: https://www.linkedin.com/in/malcolmmaima/
 
-
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=malcolmmaima)
 
