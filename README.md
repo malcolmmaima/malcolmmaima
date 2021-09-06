@@ -52,6 +52,6 @@
   </table>
 </center> -->
 
-[twitter]: https://twitter.com/malcolmmaima
+[twitter]: https://twitter.com/maimamiyare
 [linkedin]: https://www.linkedin.com/in/malcolmmaima/
 
