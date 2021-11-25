@@ -31,7 +31,7 @@
 <br />
 <br />
 
-### :zap: GitHub Stats
+<!-- ### :zap: GitHub Stats
 
 <center>
   <table>
@@ -51,7 +51,7 @@
     </tr>   
   </table>
 </center>
-
+-->
 [twitter]: https://twitter.com/maimamiyare
 [linkedin]: https://www.linkedin.com/in/malcolmmaima/
 
