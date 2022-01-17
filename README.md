@@ -32,6 +32,12 @@
 <br />
 
 <!--START_SECTION:waka-->
+```text
+Kotlin   2 hrs 59 mins   █████████████████░░░░░░░░   67.89 % 
+XML      51 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Groovy   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Java     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- ### :zap: GitHub Stats
