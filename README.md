@@ -40,7 +40,7 @@ XML              14 mins         ██░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<!-- ### :zap: GitHub Stats
+### :zap: GitHub Stats
 
 <center>
   <table>
@@ -50,9 +50,7 @@ XML              14 mins         ██░░░░░░░░░░░░░�
     </tr>   
   </table>
 </center>
--->
-
-<!-- <center>
+<center>
   <table>
     <tr>
         <td><img width="350px" align="left" src="https://github-readme-stats-a6ue0re62-malcolmmaima.vercel.app/api/top-langs/?username=malcolmmaima&hide=html&layout=compact&theme=buefy" /></td>
@@ -60,7 +58,7 @@ XML              14 mins         ██░░░░░░░░░░░░░�
     </tr>   
   </table>
 </center>
--->
+
 [twitter]: https://twitter.com/maimamiyare
 [linkedin]: https://www.linkedin.com/in/malcolmmaima/
 
