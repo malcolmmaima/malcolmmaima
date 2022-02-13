@@ -42,22 +42,7 @@ XML              14 mins         ██░░░░░░░░░░░░░�
 
 ### :zap: GitHub Stats
 
-<center>
-  <table>
-    <tr>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmmaima&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="445px" align="left" src="https://github-readme-stats.vercel.app/api?username=malcolmmaima" /></td>
-    </tr>   
-  </table>
-</center>
-<center>
-  <table>
-    <tr>
-        <td><img width="350px" align="left" src="https://github-readme-stats-a6ue0re62-malcolmmaima.vercel.app/api/top-langs/?username=malcolmmaima&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="445px" align="left" src="https://github-readme-stats-swart-one.vercel.app/api?username=malcolmmaima&hide=html&layout=compact&theme=buefy" /></td>
-    </tr>   
-  </table>
-</center>
+ [![Malcolm's github stats](https://github-readme-stats.vercel.app/api?username=malcolmmaima&show_icons=true&theme=black)](https://github.com/malcolmmaima/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmmaima&show_icons=true&theme=black&layout=compact)](https://github.com/malcolmmaima/github-readme-stats)
 
 [twitter]: https://twitter.com/maimamiyare
 [linkedin]: https://www.linkedin.com/in/malcolmmaima/
