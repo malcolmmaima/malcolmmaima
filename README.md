@@ -42,7 +42,7 @@ XML              14 mins         ██░░░░░░░░░░░░░�
 
 ### :zap: GitHub Stats
 
- [![Malcolm's github stats](https://github-readme-stats.vercel.app/api?username=malcolmmaima&show_icons=true&theme=black)](https://github.com/malcolmmaima/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmmaima&show_icons=true&theme=black&layout=compact)](https://github.com/malcolmmaima/github-readme-stats)
+<!-- [![Malcolm's github stats](https://github-readme-stats.vercel.app/api?username=malcolmmaima&show_icons=true&theme=black)](https://github.com/malcolmmaima/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmmaima&show_icons=true&theme=black&layout=compact)](https://github.com/malcolmmaima/github-readme-stats) -->
 
 [twitter]: https://twitter.com/maimamiyare
 [linkedin]: https://www.linkedin.com/in/malcolmmaima/
