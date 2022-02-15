@@ -35,6 +35,8 @@
 ### My Stats:
 <!--START_SECTION:waka-->
 ```text
+Total: 1 min
+
 Kotlin   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
