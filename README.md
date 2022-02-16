@@ -35,9 +35,9 @@
 ### My Stats:
 <!--START_SECTION:waka-->
 ```text
-Total: 1 min
+Total: 3 mins
 
-Kotlin   1 min           █████████████████████████   100.00 % 
+Kotlin   2 mins          █████████████████████████   99.66 % 
 ```
 <!--END_SECTION:waka-->
 
