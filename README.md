@@ -32,7 +32,7 @@
 <br />
 <br />
 
-### My Stats:
+### My Recent Stats:
 <!--START_SECTION:waka-->
 ```text
 Total: 1 hr 30 mins
