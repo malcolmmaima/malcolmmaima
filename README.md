@@ -35,13 +35,13 @@
 ### My Recent Stats:
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 30 mins
+Total: 4 hrs 34 mins
 
-Kotlin           30 mins         ████████▒░░░░░░░░░░░░░░░░   33.96 % 
-Groovy           20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.47 % 
-GitIgnore file   14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Properties       12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Gradle           11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Kotlin       2 hrs 26 mins   █████████████▒░░░░░░░░░░░   53.25 % 
+Properties   38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+XML          25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Groovy       22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Gradle       17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 ```
 <!--END_SECTION:waka-->
 
