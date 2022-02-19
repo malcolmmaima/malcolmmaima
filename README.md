@@ -35,8 +35,6 @@
 ### My Recent Stats:
 <!--START_SECTION:waka-->
 ```text
-Total: 5 hrs 42 mins
-
 Kotlin       2 hrs 47 mins   ████████████▒░░░░░░░░░░░░   48.97 % 
 Properties   44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 XML          36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
