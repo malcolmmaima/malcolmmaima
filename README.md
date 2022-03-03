@@ -32,7 +32,7 @@
 <br />
 <br />
 
-### My Recent Stats: [![wakatime](https://wakatime.com/badge/user/118b5f73-6723-4127-88df-130c1e70a287.svg)](https://wakatime.com/@118b5f73-6723-4127-88df-130c1e70a287)
+### My Recent Stats: [![wakatime](https://wakatime.com/badge/user/118b5f73-6723-4127-88df-130c1e70a287.svg)](https://wakatime.com/@malcolmmaima)
 <!--START_SECTION:waka-->
 
 ```text
