@@ -37,11 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin                                 7 hrs 5 mins    ██████████████░░░░░░░░░░░   56.52 %
-XML                                    3 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   31.38 %
-Groovy                                 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Java                                   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-spring-application-config-properties   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Kotlin                                 6 hrs 56 mins   ██████████████░░░░░░░░░░░   56.14 %
+XML                                    4 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   36.66 %
+Java                                   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+spring-application-config-properties   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Groovy                                 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 HTML                                   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
