@@ -7,6 +7,7 @@
 - 🥅 Goals: Contribute more to Open Source projects and fly a Cessna 172 over the bundus.
 - ⚡ I love dogs, hiking and crypto.
 - 😎 Some interesting things about me <a href="https://linktr.ee/malcolmmaima">Click here</a>. 
+- 🚀 Always looking to Collaborate on projects so definitely hit me up
 
 ### Connect with me 
 
