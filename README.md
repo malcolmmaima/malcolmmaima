@@ -33,7 +33,7 @@
 <br />
 <br />
 
-### My Recent 7 day Stats: [![wakatime](https://wakatime.com/badge/user/118b5f73-6723-4127-88df-130c1e70a287.svg)](https://wakatime.com/@malcolmmaima)
+### My Recent 7 day Stats:
 
 <!--START_SECTION:waka-->
 
@@ -47,6 +47,7 @@ JSON                   19 mins         ▒░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/118b5f73-6723-4127-88df-130c1e70a287.svg)](https://wakatime.com/@malcolmmaima)
 
 <!-- ### :zap: GitHub Stats
 [![Malcolm's github stats](https://github-readme-stats.vercel.app/api?username=malcolmmaima&show_icons=true&theme=black)](https://github.com/malcolmmaima/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmmaima&show_icons=true&theme=black&layout=compact)](https://github.com/malcolmmaima/github-readme-stats) -->
