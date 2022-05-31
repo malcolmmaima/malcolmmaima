@@ -1,11 +1,11 @@
 ### Hi there, I'm Malcolm Maima👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=malcolmmaima&color=yellow)</div>
 
-## I'm a Software Engineer, Movie Buff, Avgeek and Great Cook!!
+## I'm a Software Engineer, Avgeek and Great Cook!!
 
 - 🌱 Currently getting my hands dirty with kotlin at <a href="https://github.com/Kyosk-Digital">@Kyosk-Digital</a>. 
 - 👯 I’m looking to expand my stack coverage.
 - 🥅 Goals: Contribute more to Open Source projects and fly a Cessna 172 over the bundus.
-- ⚡ I love dogs, hiking and crypto.
+- ⚡ I love dogs, hiking and jazz music.
 - 😎 Some interesting things about me <a href="https://linktr.ee/malcolmmaima">Click here</a>. 
 - 🚀 Always looking to Collaborate on projects so definitely hit me up
 
