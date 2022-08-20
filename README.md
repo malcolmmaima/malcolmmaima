@@ -32,7 +32,7 @@
 <br />
 <br />
 
-### My Recent 7 day Stats:
+### My Recent Stats:
 
 <!--START_SECTION:waka-->
 
