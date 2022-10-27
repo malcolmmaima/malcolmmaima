@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin                 8 hrs 21 mins   █████████████░░░░░░░░░░░░   52.50 %
-XML                    5 hrs 22 mins   ████████▒░░░░░░░░░░░░░░░░   33.75 %
-Markdown               2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Java                   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Kotlin                 9 hrs 59 mins   ██████████████▒░░░░░░░░░░   57.48 %
+XML                    5 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.93 %
+Markdown               2 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Java                   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 Text                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
