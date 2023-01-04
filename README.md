@@ -37,7 +37,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go       20 mins         ███████████████████████▓░   94.21 %
+Kotlin   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->
