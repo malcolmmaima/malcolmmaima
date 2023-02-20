@@ -8,7 +8,7 @@
 - ⚡ I love dogs, hiking and jazz music.
 - 😎 Some interesting things about me <a href="https://linktr.ee/malcolmmaima">Click here</a>. 
 - 🚀 Always looking to Collaborate on projects so definitely hit me up
-- 📚 I write technical articles on [medium](https://malcolmmaima.medium.com/) sometimes
+- 📚 I write technical articles on [medium](https://malcolmmaima.medium.com/) sometimes.
 
 ### Connect with me 
 
