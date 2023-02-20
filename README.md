@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer, Avgeek and Great Cook!!
 
-- 🌱 Currently getting my hands dirty with kotlin at <a href="https://github.com/Kyosk-Digital">@Kyosk-Digital</a> and learning <a href="https://go.dev/">Go</a>. 
+- 🌱 Currently getting my hands dirty with kotlin at <a href="https://github.com/Kyosk-Digital">@Kyosk-Digital</a> and learning <a href="https://go.dev/">Go</a> in my spare time. 
 - 👯 I’m looking to expand my stack coverage.
 - 🥅 Goals: Contribute more to Open Source projects and fly a Cessna 172 over the bundus.
 - ⚡ I love dogs, hiking and jazz music.
