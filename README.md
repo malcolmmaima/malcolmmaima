@@ -41,11 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           40 mins         █████████████▒░░░░░░░░░░░   53.37 %
-Python           30 mins         ██████████░░░░░░░░░░░░░░░   40.30 %
-XML              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Ezhil            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-GDScript         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
