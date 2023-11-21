@@ -42,7 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin     9 hrs 3 mins    ████████████▓░░░░░░░░░░░░   50.67 %
+XML        5 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   32.09 %
+Java       2 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Markdown   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Groovy     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
