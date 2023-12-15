@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer, Avgeek and Great Cook!!
 
-- 🌱 Previously at <a href="https://github.com/Kyosk-Digital">@Kyosk-Digital</a> and learning <a href="https://go.dev/">Go</a> in my spare time. 
-- 👯 I’m looking to expand my stack coverage.
+- 🌱 Ex <a href="https://github.com/Kyosk-Digital">@Kyosk-Digital</a>.
+- 👯 Currently learning <a href="https://go.dev/">Go</a> in my spare time. 
 - 🥅 Goals: Contribute more to Open Source projects and fly a Cessna 172 over the bundus.
 - ⚡ I love dogs, hiking and jazz music.
 - 😎 Some interesting things about me <a href="https://linktr.ee/malcolmmaima">Click here</a>. 
