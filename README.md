@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            25 mins         █████████████▓░░░░░░░░░░░   54.48 %
-Java Properties   19 mins         ██████████░░░░░░░░░░░░░░░   40.62 %
-Properties        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Kotlin                 41 mins         ████████████████░░░░░░░░░   63.42 %
+Java Properties        19 mins         ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+Properties             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Shrinker Config File   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Gradle                 0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
