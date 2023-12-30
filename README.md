@@ -42,11 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 15 mins         █████████████████████▓░░░   86.94 %
-Shrinker Config File   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Properties             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Gradle                 0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-TOML                   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Kotlin   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
