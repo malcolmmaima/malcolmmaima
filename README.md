@@ -42,9 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   13 mins         ██████████████░░░░░░░░░░░   56.22 %
-XML      10 mins         ███████████░░░░░░░░░░░░░░   43.74 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
