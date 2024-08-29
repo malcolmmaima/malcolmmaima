@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 24 hrs 17 mins  ██████████████████▓░░░░░░   74.78 %
-XML                    4 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-Prolog                 1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-YAML                   1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Shrinker Config File   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Kotlin                 18 hrs 31 mins  █████████████████▓░░░░░░░   70.86 %
+XML                    4 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+Prolog                 1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+YAML                   1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Shrinker Config File   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
