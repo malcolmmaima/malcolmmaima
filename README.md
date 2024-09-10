@@ -42,7 +42,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   0 secs          █████████████████████████   100.00 %
+Kotlin         27 mins         █████████████████████████   99.52 %
+Gradle         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Properties     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+EditorConfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
