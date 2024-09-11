@@ -10,10 +10,8 @@
 - 🚀 Always looking to Collaborate on projects so definitely hit me up
 - 📚 I write technical articles on [medium](https://malcolmmaima.medium.com/) sometimes.
 
-### Connect with me 
 <!--
-[<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/maimamiyare?label=Twitter&style=for-the-badge&logo=Twitter&logoColor=blue" />][twitter]
--->
+### Connect with me 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
@@ -36,6 +34,8 @@
 <br />
 <br />
 <br />
+
+-->
 
 ### My Recent Stats:
 
