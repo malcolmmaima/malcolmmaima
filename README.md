@@ -39,11 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       1 hr 28 mins    ████████████████░░░░░░░░░   64.14 %
-Groovy     25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
-Kotlin     23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Gradle     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
