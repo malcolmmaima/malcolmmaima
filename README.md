@@ -39,7 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin         3 hrs 42 mins   █████████████▓░░░░░░░░░░░   55.04 %
+YAML           2 hrs 35 mins   █████████▓░░░░░░░░░░░░░░░   38.58 %
+TOML           16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+XML            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Gradle         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
