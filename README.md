@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 16 hrs 26 mins  ███████████████████▒░░░░░   77.33 %
-Markdown               1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-GitIgnore file         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Gradle                 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Properties             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Kotlin                 16 hrs 29 mins  █████████████████▒░░░░░░░   69.90 %
+Python                 2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Markdown               1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+GitIgnore file         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Gradle                 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
