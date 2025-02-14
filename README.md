@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            29 hrs 16 mins  ███████████████████████▒░   93.09 %
-Java              1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-XML               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Kotlin            25 hrs 22 mins  ███████████████████████░░   91.49 %
+Java              2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+XML               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
