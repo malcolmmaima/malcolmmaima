@@ -2,17 +2,17 @@
 
 ## I'm a Software Engineer, Avgeek and Great Cook!!
 
-- 🌱 Currently getting my hands dirty with Kotlin at <a href="https://www.linkedin.com/company/equity-bank-limited/">Equity Bank</a> <a href="https://play.google.com/store/apps/details?id=ke.co.equitygroup.equitymobile&hl=en">(Mobile App)</a>. Ex <a href="https://www.linkedin.com/company/kyosk-app/">@Kyosk-Digital</a>.
+<!-- - 🌱 Currently getting my hands dirty with Kotlin at <a href="https://www.linkedin.com/company/equity-bank-limited/">Equity Bank</a> <a href="https://play.google.com/store/apps/details?id=ke.co.equitygroup.equitymobile&hl=en">(Mobile App)</a>. Ex <a href="https://www.linkedin.com/company/kyosk-app/">@Kyosk-Digital</a>. -->
 - 👯 Currently learning <a href="https://go.dev/">Go</a> in my spare time. 
 - 🥅 Goals: Contribute more to Open Source projects and fly a Cessna 172 over the bundus.
 - ⚡ I love dogs, hiking and jazz music.
 - 😎 Some interesting things about me <a href="https://linktr.ee/malcolmmaima">Click here</a>. 
 - 🚀 Always looking to Collaborate on projects so definitely hit me up
 - 📚 I write technical articles on [medium](https://malcolmmaima.medium.com/) sometimes.
-
+<!--
 ### Connect with me 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
+-->
 <br />
 <br />
 
@@ -53,5 +53,5 @@ Gradle Kotlin DSL      13 mins         ▒░░░░░░░░░░░░�
 [![Malcolm's github stats](https://github-readme-stats.vercel.app/api?username=malcolmmaima&show_icons=true&theme=black)](https://github.com/malcolmmaima/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmmaima&show_icons=true&theme=black&layout=compact)](https://github.com/malcolmmaima/github-readme-stats) -->
 
 [twitter]: https://twitter.com/maimamiyare
-[linkedin]: https://www.linkedin.com/in/malcolmmaima/
+<!-- [linkedin]: https://www.linkedin.com/in/malcolmmaima/ -->
 
