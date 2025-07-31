@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            18 hrs 46 mins  ███████████████████▒░░░░░   76.91 %
-TOML              2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Other             2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-Java Properties   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Properties        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Kotlin              17 hrs 35 mins  ████████████████████▓░░░░   83.04 %
+TOML                1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Gradle Kotlin DSL   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+XML                 39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Java Properties     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
