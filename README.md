@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 19 hrs 17 mins  ████████████████░░░░░░░░░   64.15 %
-Markdown               3 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-YAML                   1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-TypeScript             1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Java Properties        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Kotlin                 28 hrs 30 mins  ██████████████████▒░░░░░░   73.73 %
+Markdown               4 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
+Java Properties        57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+TOML                   43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Docker                 42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
