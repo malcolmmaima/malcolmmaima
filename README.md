@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 11 hrs 4 mins   ██████████████████▒░░░░░░   73.30 %
-Gradle Kotlin DSL      1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Markdown               44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Git Config             39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Java                   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Kotlin                 13 hrs 38 mins  ██████████████████▓░░░░░░   74.82 %
+Gradle Kotlin DSL      1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Markdown               44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Git Config             39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Java                   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 ```
 
 <!--END_SECTION:waka-->
