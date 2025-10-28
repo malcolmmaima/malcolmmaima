@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin                 3 hrs 22 mins   ███████████████████████▒░   92.91 %
+XML                    14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Markdown               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Gradle                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
