@@ -3,7 +3,7 @@
 ## I'm a Software Engineer, Avgeek and Great Cook!!
 
 <!-- - 🌱 Currently getting my hands dirty with Kotlin at <a href="https://www.linkedin.com/company/equity-bank-limited/">Equity Bank</a> <a href="https://play.google.com/store/apps/details?id=ke.co.equitygroup.equitymobile&hl=en">(Mobile App)</a>. Ex <a href="https://www.linkedin.com/company/kyosk-app/">@Kyosk-Digital</a>. -->
-- 👯 Currently building <a href="https://github.com/malcolmmaima/Telepesa">Telepesa</a> in my spare time. 
+<!-- - 👯 Currently building <a href="https://github.com/malcolmmaima/Telepesa">Telepesa</a> in my spare time. -->
 - 🥅 Goals: Contribute more to Open Source projects and fly a Cessna 172 over the bundus.
 - ⚡ I love dogs, hiking and jazz music.
 - 😎 Some interesting things about me <a href="https://linktr.ee/malcolmmaima">Click here</a>. 
