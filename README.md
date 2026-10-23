@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          1 hr 38 mins          ███████████████████░░░░░░   75.97 %
-Properties        19 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
-Kotlin            6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Python            5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Shell Script      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
